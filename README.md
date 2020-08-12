@@ -1,1 +1,2 @@
-# Symfony_wildseries
+# Symfony WildSeries
+Wild Code School
